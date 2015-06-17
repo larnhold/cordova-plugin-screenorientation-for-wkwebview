@@ -52,9 +52,6 @@
                 break;
         }
         
-        if ([orientationIn isEqual: @"unlocked"]) {
-            orientationIn = orientation;
-        }
         // we send the result prior to the view controller presentation so that the JS side
         // is ready for the unlock call.
         CDVPluginResult* pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_OK
