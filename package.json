@@ -1,0 +1,19 @@
+{
+  "name": "larnhold-cordova-screenorientation",
+  "version": "1.0.0",
+  "description": "Cordova plugin to set/lock the screen orientation in a common way for iOS, Android and Blackberry 10.  From version 1.0.0 the interface is based on the [Screen Orientation API](http://www.w3.org/TR/screen-orientation/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larnhold/cordova-plugin-screenorientation-for-wkwebview.git"
+  },
+  "author": "LA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larnhold/cordova-plugin-screenorientation-for-wkwebview/issues"
+  },
+  "homepage": "https://github.com/larnhold/cordova-plugin-screenorientation-for-wkwebview#readme"
+}
